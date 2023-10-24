@@ -1,0 +1,13 @@
+/* This is for test purpes */
+h1 {
+  color: brown;
+  font-size: 80px;
+}
+
+div > p {
+  color: cadetblue;
+  font-weight: bolder;
+}
+p {
+  color: rgb(71, 71, 255);
+}
